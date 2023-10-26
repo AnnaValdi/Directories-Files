@@ -1,0 +1,12 @@
+C:\Users\cep.CEPNET0\Documents\AnnaValdiDAM2\M06 - VS\REPTE\M06-RepteTry2\bin\Debug\M06-RepteTry2.exe.config
+C:\Users\cep.CEPNET0\Documents\AnnaValdiDAM2\M06 - VS\REPTE\M06-RepteTry2\bin\Debug\M06-RepteTry2.exe
+C:\Users\cep.CEPNET0\Documents\AnnaValdiDAM2\M06 - VS\REPTE\M06-RepteTry2\bin\Debug\M06-RepteTry2.pdb
+C:\Users\cep.CEPNET0\Documents\AnnaValdiDAM2\M06 - VS\REPTE\M06-RepteTry2\obj\Debug\M06-RepteTry2.csproj.AssemblyReference.cache
+C:\Users\cep.CEPNET0\Documents\AnnaValdiDAM2\M06 - VS\REPTE\M06-RepteTry2\obj\Debug\M06_RepteTry2.Admin.resources
+C:\Users\cep.CEPNET0\Documents\AnnaValdiDAM2\M06 - VS\REPTE\M06-RepteTry2\obj\Debug\M06_RepteTry2.Filter.resources
+C:\Users\cep.CEPNET0\Documents\AnnaValdiDAM2\M06 - VS\REPTE\M06-RepteTry2\obj\Debug\M06_RepteTry2.Properties.Resources.resources
+C:\Users\cep.CEPNET0\Documents\AnnaValdiDAM2\M06 - VS\REPTE\M06-RepteTry2\obj\Debug\M06-RepteTry2.csproj.GenerateResource.cache
+C:\Users\cep.CEPNET0\Documents\AnnaValdiDAM2\M06 - VS\REPTE\M06-RepteTry2\obj\Debug\M06-RepteTry2.csproj.CoreCompileInputs.cache
+C:\Users\cep.CEPNET0\Documents\AnnaValdiDAM2\M06 - VS\REPTE\M06-RepteTry2\obj\Debug\M06-RepteTry2.exe
+C:\Users\cep.CEPNET0\Documents\AnnaValdiDAM2\M06 - VS\REPTE\M06-RepteTry2\obj\Debug\M06-RepteTry2.pdb
+C:\Users\cep.CEPNET0\Documents\AnnaValdiDAM2\M06 - VS\REPTE\M06-RepteTry2\obj\Debug\M06_RepteTry2.Sort.resources
