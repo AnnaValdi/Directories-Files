@@ -10,3 +10,25 @@ C:\Users\cep.CEPNET0\Documents\AnnaValdiDAM2\M06 - VS\REPTE\M06-RepteTry2\obj\De
 C:\Users\cep.CEPNET0\Documents\AnnaValdiDAM2\M06 - VS\REPTE\M06-RepteTry2\obj\Debug\M06-RepteTry2.exe
 C:\Users\cep.CEPNET0\Documents\AnnaValdiDAM2\M06 - VS\REPTE\M06-RepteTry2\obj\Debug\M06-RepteTry2.pdb
 C:\Users\cep.CEPNET0\Documents\AnnaValdiDAM2\M06 - VS\REPTE\M06-RepteTry2\obj\Debug\M06_RepteTry2.Sort.resources
+C:\Users\cep\Source\Repos\AnnaValdi\M06_RepteTry2\bin\Debug\M06-RepteTry2.exe.config
+C:\Users\cep\Source\Repos\AnnaValdi\M06_RepteTry2\bin\Debug\M06-RepteTry2.exe
+C:\Users\cep\Source\Repos\AnnaValdi\M06_RepteTry2\bin\Debug\M06-RepteTry2.pdb
+C:\Users\cep\Source\Repos\AnnaValdi\M06_RepteTry2\obj\Debug\M06-RepteTry2.csproj.AssemblyReference.cache
+C:\Users\cep\Source\Repos\AnnaValdi\M06_RepteTry2\obj\Debug\M06_RepteTry2.Admin.resources
+C:\Users\cep\Source\Repos\AnnaValdi\M06_RepteTry2\obj\Debug\M06_RepteTry2.Filter.resources
+C:\Users\cep\Source\Repos\AnnaValdi\M06_RepteTry2\obj\Debug\M06_RepteTry2.Properties.Resources.resources
+C:\Users\cep\Source\Repos\AnnaValdi\M06_RepteTry2\obj\Debug\M06_RepteTry2.Sort.resources
+C:\Users\cep\Source\Repos\AnnaValdi\M06_RepteTry2\obj\Debug\M06-RepteTry2.csproj.GenerateResource.cache
+C:\Users\cep\Source\Repos\AnnaValdi\M06_RepteTry2\obj\Debug\M06-RepteTry2.csproj.CoreCompileInputs.cache
+C:\Users\cep\Source\Repos\AnnaValdi\M06_RepteTry2\obj\Debug\M06-RepteTry2.exe
+C:\Users\cep\Source\Repos\AnnaValdi\M06_RepteTry2\obj\Debug\M06-RepteTry2.pdb
+C:\Users\cep\Documents\AnnaValdi-DAM\M06\M06_Directories&Files\obj\Debug\M06-RepteTry2.csproj.AssemblyReference.cache
+C:\Users\cep\Documents\AnnaValdi-DAM\M06\M06_Directories&Files\obj\Debug\M06-RepteTry2.exe
+C:\Users\cep\Documents\AnnaValdi-DAM\M06\M06_Directories&Files\obj\Debug\M06-RepteTry2.pdb
+C:\Users\cep\Documents\AnnaValdi-DAM\M06\M06_Directories&Files\bin\Debug\M06-RepteTry2.exe.config
+C:\Users\cep\Documents\AnnaValdi-DAM\M06\M06_Directories&Files\bin\Debug\M06-RepteTry2.exe
+C:\Users\cep\Documents\AnnaValdi-DAM\M06\M06_Directories&Files\bin\Debug\M06-RepteTry2.pdb
+C:\Users\cep\Documents\AnnaValdi-DAM\M06\M06_Directories&Files\obj\Debug\M06_RepteTry2.Admin.resources
+C:\Users\cep\Documents\AnnaValdi-DAM\M06\M06_Directories&Files\obj\Debug\M06_RepteTry2.Properties.Resources.resources
+C:\Users\cep\Documents\AnnaValdi-DAM\M06\M06_Directories&Files\obj\Debug\M06-RepteTry2.csproj.GenerateResource.cache
+C:\Users\cep\Documents\AnnaValdi-DAM\M06\M06_Directories&Files\obj\Debug\M06-RepteTry2.csproj.CoreCompileInputs.cache
